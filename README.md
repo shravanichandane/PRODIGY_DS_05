@@ -36,3 +36,19 @@ The objective of this project is to analyze traffic accident data to identify pa
 ### Tools and Libraries
 - Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn will be used for data analysis and visualization.
 - Jupyter Notebook will be utilized for interactive analysis and documentation.
+
+## Conclusion:
+- Accidents are more likely to occur during rush hours, specifically between 6-9 AM and 3-6 PM.</br>
+- The majority of accidents occur in colder weather or regions, with most accidents happening in areas experiencing temperatures in the range of (50-60) degrees Fahrenheit.</br>
+- The most frequently used word in the 'Weather_Condition' column is "Fair", followed by "Clear" and "Mostly Cloudy".</br>
+- Over 1200 cities have reported only one accident during the entire period, while less than 150 cities (out of 11,790) reported more than 1000 accidents during the period between February 2016 and December 2020.</br>
+- The majority of accidents happened when the visibility was between 1 to 10 miles, which is typically considered good visibility.</br>
+- The most common weather conditions associated with accidents are Sunny, Cloudy, Rainy, Snowy, and Foggy.</br>
+- The most common road conditions associated with accidents are Clear, Dry, Wet, Snowy, and Icy.</br>
+- The majority of accidents occur during the daytime, with a peak between 3-6 PM.</br>
+- The presence of a crossing nearby at the point of the accident is not a significant factor in the occurrence of accidents.</br>
+
+These insights can be used to inform road safety policies and initiatives, such as targeted traffic management strategies and safety campaigns during peak accident times.
+</br>
+# Linkedin profile:
+www.linkedin.com/in/shravani-chandane-58ab062b6
